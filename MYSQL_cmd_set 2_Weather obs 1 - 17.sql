@@ -53,12 +53,4 @@ select round(min(lat_n),4) from station where lat_n > 38.7780
 /* Weather Observation Station 17 */
 SELECT ROUND(LONG_W, 4) FROM STATION WHERE LAT_N > 38.7780 ORDER BY LAT_N LIMIT 1;
 
-/* Weather Observation Station 1 */
 
-/* Weather Observation Station 1 */
-
-/* Weather Observation Station 1 */
-
-/* Weather Observation Station 1 */
-
-/* Weather Observation Station 1 */
